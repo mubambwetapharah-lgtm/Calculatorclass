@@ -26,6 +26,7 @@ namespace CalculatorLab
                 switch (choice)
                 {
                     case "1":
+                         // feature A
                         Console.Write("Enter A: ");
                         a = Convert.ToDouble(Console.ReadLine());
                         break;
